@@ -1,0 +1,5 @@
+src/components/TradingChart.tsx(190,43): error TS2551: Property 'addLineSeries' does not exist on type 'IChartApi'. Did you mean 'addSeries'?
+src/components/TradingChart.tsx(199,43): error TS2551: Property 'addLineSeries' does not exist on type 'IChartApi'. Did you mean 'addSeries'?
+src/components/TradingChart.tsx(208,52): error TS2551: Property 'addLineSeries' does not exist on type 'IChartApi'. Did you mean 'addSeries'?
+src/components/TradingChart.tsx(304,41): error TS2339: Property 'addCandlestickSeries' does not exist on type 'IChartApi'.
+src/components/TradingChart.tsx(317,36): error TS2551: Property 'addHistogramSeries' does not exist on type 'IChartApi'. Did you mean 'addCustomSeries'?
